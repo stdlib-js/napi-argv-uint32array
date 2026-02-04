@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-uint32array",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a Node-API value to an unsigned 32-bit integer array.",
   "license": "Apache-2.0",
   "author": {
